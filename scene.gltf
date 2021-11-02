@@ -208,13 +208,13 @@
   ],
   "images": [
     {
-      "uri": "textures/Earth_baseColor.jpeg"
+      "uri": "https://res.cloudinary.com/dbgqnecjp/image/upload/v1635888774/text/Earth_baseColor_y882vc.jpg"
     },
     {
-      "uri": "textures/Clouds_metallicRoughness.png"
+      "uri": "https://res.cloudinary.com/dbgqnecjp/image/upload/v1635888771/text/Clouds_metallicRoughness_fn8wjf.png"
     },
     {
-      "uri": "textures/Atmo_baseColor.png"
+      "uri": "https://res.cloudinary.com/dbgqnecjp/image/upload/v1635888773/text/Atmo_baseColor_u3ds2z.png"
     }
   ],
   "materials": [
