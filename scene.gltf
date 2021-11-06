@@ -208,13 +208,13 @@
   ],
   "images": [
     {
-      "uri": "http://res.cloudinary.com/dbgqnecjp/image/upload/v1635888774/text/Earth_baseColor_y882vc.jpg"
+      "uri": "https://res.cloudinary.com/dbgqnecjp/image/upload/v1635888774/text/Earth_baseColor_y882vc.jpg"
     },
     {
-      "uri": "http://res.cloudinary.com/dbgqnecjp/image/upload/v1635888771/text/Clouds_metallicRoughness_fn8wjf.png"
+      "uri": "https://res.cloudinary.com/dbgqnecjp/image/upload/v1635888771/text/Clouds_metallicRoughness_fn8wjf.png"
     },
     {
-      "uri": "http://res.cloudinary.com/dbgqnecjp/image/upload/v1635888773/text/Atmo_baseColor_u3ds2z.png"
+      "uri": "https://res.cloudinary.com/dbgqnecjp/image/upload/v1635888773/text/Atmo_baseColor_u3ds2z.png"
     }
   ],
   "materials": [
